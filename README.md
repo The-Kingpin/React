@@ -1,2 +1,2 @@
 # React
-React.js rep
+React.js repo
